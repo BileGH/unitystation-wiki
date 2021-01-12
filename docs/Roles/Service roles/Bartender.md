@@ -25,7 +25,7 @@ When the bar's empty, it might be tempting to load up your bar counter with drin
 
 ### How to Mix? 
 
-Well, frankly, you just add liquids into a glass and they mix themselves. Before you can mix you need to get familiar with your elements, currently the only appliance that is there for bar tending is the Booze-o-matic. Some recipes all the bartenders should know: 
+Well, frankly, you just add liquids into a glass and they mix themselves. Before you can mix you need to get familiar with your elements, while most of the ingredients have been added, a proper inebriation system is upcoming; soon™. Your four friends are the booze and soda dispenser respectively (sold separately), the booze-o-matic for raw bottles and your local botanist. Some recipes all the bartenders should know: 
 
 1 part vodka, 2 parts tomato juice, 1 part lime juice - Bloody Mary
 
@@ -41,6 +41,6 @@ Well, frankly, you just add liquids into a glass and they mix themselves. Before
 
 1 part Whiskey Cola, 1 part beer - Syndicate Bomb
 
-A full guide on all the drinks can be (will be) found [here](Guide-to-Food-and-Drink.md). Take in account that Vodka is called [https://wiki.baystation12.net/Tunguska_Triple_Distilled Tunguska Triple Distilled] and Whiskey is Old Git's Special Reserve. With that in mind, go out and help some people drink their sorrows away.
+A full guide on all the drinks can be (will be) found [here](Guide-to-Food-and-Drink.md) ((as of now I recommend using [this](https://tgstation13.org/wiki/Guide_to_food_and_drinks#Basic_Drink_Ingredients) link. With that in mind, go out and help some people drink their sorrows away.
 
 {% include 'html/rolesnavbar.md' %}
